@@ -1,7 +1,19 @@
-.about {
-    background-color: coral;
+body {
+    font-family: 'Montserrat', sans-serif;
 }
-projects style
-.projects {
-    background: chocolate;
+/* main content styles */
+.maincontent {
+    background-color:#FFFFFF ;
+}
+/* main styles */
+.Main {
+display: flex;
+flex-direction: row-reverse;
+background-color: #E5E5E5;
+width: 1200px;
+margin: 0 auto;
+}
+/* sidebar styles/ */
+.sidebar {
+background-color: #1F2936;
 }
